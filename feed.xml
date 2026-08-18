@@ -1,19 +1,1558 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Podcast</title>
-    <link>https://www.youtube.com/@hambubbie/videos</link>
-    <description>Podcast</description>
+    <title>hambubbie</title>
+    <link>https://www.youtube.com/channel/UCcqJ80blZTEe7Wziz1iCTHg</link>
+    <description>mostly just posting compilation videos</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 14:58:05 +0000</lastBuildDate>
-    <itunes:author>Podcast</itunes:author>
-    <itunes:summary>Podcast</itunes:summary>
+    <lastBuildDate>Tue, 18 Aug 2026 17:02:51 +0000</lastBuildDate>
+    <atom:link href="https://geodesicdavid.github.io/hambubbie/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>hambubbie</itunes:author>
+    <itunes:summary>mostly just posting compilation videos</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:owner>
-      <itunes:name>Podcast</itunes:name>
+      <itunes:name>hambubbie</itunes:name>
       <itunes:email>geodesicdavid@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>story time with griffin mcelroy</title>
+      <link>https://www.youtube.com/watch?v=5pApXS_fdKc</link>
+      <guid isPermaLink="false">5pApXS_fdKc</guid>
+      <pubDate>Mon, 17 Aug 2026 22:54:36 +0000</pubDate>
+      <description>just some of my favorite griffin stories
+
+i own nothing, mbmbam is property of maximum fun and the mcelroy family. til death do us blart is property of little empire podcasts.
+
+clips taken from the following episodes with timestamps listed below:
+0:00 three deep in the window ep 352
+1:39 playing pokemon in church ep 439
+3:05 build a bear ep 696
+3:52 griffin gets robbed ep 113
+5:56 i’ll miss you little sailor man ep 667
+6:18 griffin does a grand theft auto ep 623
+8:18 griffin lives like a ghost ep 476
+9:05 condiment station salsa ep 259
+9:48 griffin cries to get out of a ticket ep 263
+11:55 mail mix up ep 366
+14:02 griffin fights a swan ep 366
+15:37 griffin’s vasectomy ep 742
+20:22 clint cuts his butt wide open ep 109
+20:50 griffin rips his nips ep 361
+21:37 andy week ep 365
+23:06 griffin’s great fashion choices ep 584
+23:57 great?! expectations ep 638
+25:28 raw fettuccine ep 436
+26:52 corn cob boy ep 147
+30:00 house of gucci ep 605
+31:03 mascot football ep 527
+31:49 bigfoot is gregory ep 485
+33:39 principal for a day ep 708
+34:32 griffin breaks their uncle’s door ep 821
+36:39 teen club ep 186
+38:40 trampoline park ep 478
+40:30 open mic night at nasty’s ep 826
+41:56 food poisoning death blart ep 1
+43:36 english class pokemon story ep 259</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-5pApXS_fdKc/story-time-with-griffin-mcelroy-5pApXS_fdKc.mp3" length="27002138" type="audio/mpeg"/>
+      <itunes:duration>44:36</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>story time with justin mcelroy part 2</title>
+      <link>https://www.youtube.com/watch?v=ZsJB7RxsVYI</link>
+      <guid isPermaLink="false">ZsJB7RxsVYI</guid>
+      <pubDate>Sat, 15 Aug 2026 05:12:58 +0000</pubDate>
+      <description>just some of my favorite justin stories
+
+part 1 here https://youtu.be/ymfjmcUYE-E?si=sBGxujgR65SM-b9U
+
+i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+clips taken from the following episodes with timestamps listed below:
+0:00 suppository story ep 777
+7:27 cinderblock story ep 826
+11:29 justin gets fired from school news ep 259
+12:38 justin’s extreme nipple distress ep 361
+13:21 justin being a great blockbuster employee ep 361
+14:22 justin is held hostage on his porch ep 368
+17:28 justin’s vet journey ep 710
+21:39 elf on the shelf ep 638
+26:53 various dumb things justin did in college ep 68
+30:01 inflatable snowmen vs justin ep 330
+32:34 justin sees avatar 2 on edibles (spoilers) ep 643
+41:47 justin is a knife guy ep 680
+44:09 justin’s credit card advice eps 196 + 259
+51:00 narc club ep 204
+52:11 gamer news ep 347
+54:48 OG water ep 95
+56:12 chilifest ep 478
+1:01:40 that light is fucking crazy ep 408</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-ZsJB7RxsVYI/story-time-with-justin-mcelroy-part-2-ZsJB7RxsVYI.mp3" length="37598129" type="audio/mpeg"/>
+      <itunes:duration>1:02:31</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>story time with justin mcelroy</title>
+      <link>https://www.youtube.com/watch?v=ymfjmcUYE-E</link>
+      <guid isPermaLink="false">ymfjmcUYE-E</guid>
+      <pubDate>Wed, 12 Aug 2026 22:54:20 +0000</pubDate>
+      <description>just some of my favorite justin stories
+
+part 2 here: https://www.youtube.com/watch?v=ZsJB7RxsVYI
+
+i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+clips taken from the following episodes with timestamps listed below:
+0:00 problems related to me falling down the stairs ep 525
+3:11 y’all heard about this bear? ep 713
+8:55 the worst day of justin’s life ep 317
+17:05 the jumble ep 540
+19:36  justin’s 35th birthday ep 276
+24:14 birthday surprise hole ep 259
+26:39 pissboy emergency ep 772
+32:21 justin’s vasectomy saga eps 418 and 425
+53:15 justin poops his pants ep 683
+53:49 justin’s tv production class in high school ep 259
+55:14 justin’s questionable drink choices ep 359
+57:27 justin funds a drug deal ep 259
+59:34 justin gets fired ep 259
+1:01:55 justin gets stuck in an elevator ep 359
+1:02:57 justin’s lipsyncing competition ep 259
+1:03:38 justin’s questionable hair choices ep 259
+1:08:31 the only time justin did stand up ep 353
+1:10:21 justin’s hat friend ep 715
+1:11:08 get the lead out robocop ep 696
+1:12:05 i’ll dance at your wedding ep 393
+1:13:45 justin witnesses a crime at disney world ep 375</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-ymfjmcUYE-E/story-time-with-justin-mcelroy-ymfjmcUYE-E.mp3" length="45570578" type="audio/mpeg"/>
+      <itunes:duration>1:16:10</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Munch Squad Hall of Fame Part 2</title>
+      <link>https://www.youtube.com/watch?v=Ip1sFRCADTU</link>
+      <guid isPermaLink="false">Ip1sFRCADTU</guid>
+      <pubDate>Sun, 26 Jul 2026 04:57:58 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+part one here: https://www.youtube.com/watch?v=fSoMoWOiC9w&amp;t=186s
+
+clips taken from the following episodes with timestamps listed below:
+0:00 edchup ep 475
+9:48 ghost whopper ep 485
+17:07 pumpkin spice ham/wendy’s new fries ep 576
+33:19 bojangles tailgate hacks ep 445
+43:58 crystal pepsi proposal ep 508
+50:38 kfc charcuterie ep 531
+1:04:05 megan trainor’s album ep 448
+1:15:38 applebee’s topped and loaded menu ep 364
+1:24:22 chuck e cheese album/concert ep 562
+1:42:17 brunchfast ep 324
+1:51:23 the bachelor cheesy garlic bread ep 450 
+2:00:01 thanksgiving pringles ep 382</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-Ip1sFRCADTU/mbmbam-munch-squad-hall-of-fame-part-2-Ip1sFRCADTU.mp3" length="74373863" type="audio/mpeg"/>
+      <itunes:duration>2:06:14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Munch Squad Hall of Fame</title>
+      <link>https://www.youtube.com/watch?v=fSoMoWOiC9w</link>
+      <guid isPermaLink="false">fSoMoWOiC9w</guid>
+      <pubDate>Thu, 23 Jul 2026 23:07:14 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+part 2 here: https://www.youtube.com/watch?v=Ip1sFRCADTU
+
+clips taken from the following episodes with time stamps listed below:
+0:00 naked chicken taco ep 304
+9:49 einstein’s wake up tones ep 392
+19:26 nightmare king ep 431
+30:37 happy tastes good ep 456
+39:34 garfield eats ep 462
+1:00:37 kfc donut sandwich ep 478
+1:06:30 kfc donut sandwich eaten live ep 479
+1:11:49 spangles 99 cent margaritas ep 492
+1:19:25 dominator ep 505
+1:32:58 tony hawk burrito ep 522
+1:46:46 pumpkin spice hotline ep 525
+1:53:25 pizza inn election reform ep 543
+2:06:21 subway tuna lawsuit ep 546
+2:15:22 subway tuna lawsuit part 2 ep 569
+
+check out solidstalemate’s channel for complete munch squad comps</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-fSoMoWOiC9w/mbmbam-munch-squad-hall-of-fame-fSoMoWOiC9w.mp3" length="88467258" type="audio/mpeg"/>
+      <itunes:duration>2:29:54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Yahoo Hall of Fame Part 3</title>
+      <link>https://www.youtube.com/watch?v=IOVQUVF3A9A</link>
+      <guid isPermaLink="false">IOVQUVF3A9A</guid>
+      <pubDate>Sun, 19 Jul 2026 21:23:29 +0000</pubDate>
+      <description>if your fav clips is not listed, check part 1 here https://www.youtube.com/watch?v=9cWssJB_AzQ or part 2 here https://www.youtube.com/watch?v=P7UDcw9krZY 
+
+i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+clips taken from the following episodes with timestamps listed below:
+0:00 Travis Starts a Mango Cult Ep 242
+9:05 Humans vs Centaurs Ep 362
+26:03 Yogi Bear The Star Eater Ep 182
+39:25 We’re Not a Shorts Family Ep 299
+54:55 High Stakes Tic Tac Toe Ep 361
+1:00:47 Ok Plato Ep 518
+1:07:34 I Love My Tall Wife Ep 295
+1:12:32 Detective Jigsaw Ep 358
+1:22:08 Who’s Ready For Ron? Ep 502
+1:28:11 How Can I Convince My Girlfriend To Dress Up Like Violet Beauregarde From Willy Wonka? Ep 55
+1:31:39 Edible Bean Bags Ep 293
+1:39:28 Fancy Hot Dogs Ep 403
+1:46:23 That’s So Hambone! Ep 486
+1:53:41 Describe 5 Blades Ep 403</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-IOVQUVF3A9A/mbmbam-yahoo-hall-of-fame-part-3-IOVQUVF3A9A.mp3" length="70371332" type="audio/mpeg"/>
+      <itunes:duration>1:59:28</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Yahoo Hall of Fame Part 2</title>
+      <link>https://www.youtube.com/watch?v=P7UDcw9krZY</link>
+      <guid isPermaLink="false">P7UDcw9krZY</guid>
+      <pubDate>Fri, 17 Jul 2026 00:09:52 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+part one here: https://www.youtube.com/watch?v=9cWssJB_AzQ
+part three here: https://www.youtube.com/watch?v=IOVQUVF3A9A
+
+clips taken from the following episodes with timestamps listed below
+0:00 How to Properly Get Rid of a Ouija Board Ep 339
+12:16 The Long Burger Ep 480
+25:18 Chicken Soup…For Boys? Ep 304
+35:13 American Hero Horn Ep 506
+44:22 Soup Bath Ep 547
+53:09 Help Naming Chinchilla Business Ep 40
+57:57 Munchables Ep 215
+1:05:21 How Do I Get Back Into The Zoo? Ep 316
+1:11:50 What’s The Easiest Way To Get A Free Boat? Ep 530
+1:21:49 Shoplifting Ep 174
+1:31:30 Can A Ghost Charge A Phone? Ep 389
+1:40:02 Controlling The Dinner Table Ep 548
+1:49:18 Vomit Catchphrases Ep 315
+1:57:11 Posh All Boys’ School Ep 344
+2:00:10 Dunkey Ep 254
+2:09:22 The Clean Saloon Ep 489
+2:17:34 Coyotes Ate Our Dad Ep 286</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-P7UDcw9krZY/mbmbam-yahoo-hall-of-fame-part-2-P7UDcw9krZY.mp3" length="90536056" type="audio/mpeg"/>
+      <itunes:duration>2:31:04</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Yahoo Hall of Fame</title>
+      <link>https://www.youtube.com/watch?v=9cWssJB_AzQ</link>
+      <guid isPermaLink="false">9cWssJB_AzQ</guid>
+      <pubDate>Tue, 14 Jul 2026 01:02:20 +0000</pubDate>
+      <description>if your favorite is not listed, check part 2 here: https://www.youtube.com/watch?v=P7UDcw9krZY or part 3 here: https://www.youtube.com/watch?v=IOVQUVF3A9A
+
+i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+clips taken from the following episodes with timestamps listed below
+0:00 Hot Grapes Ep 448
+9:48 Bird Words Ep 448
+18:43 Mrs. Claus Ep 536
+28:22 Curse a Real Sword Ep 268
+34:50 Power Meal Ep 397
+41:12 Fraiser Regenerations Ep 527
+49:18 The Gambler Ep 319
+58:01 Garfield Monstrosity Ep 108
+1:11:54 I Hate You Ron Ep 104
+1:17:17 22 Slices Ep 292
+1:23:10 Who Would You Take to Mars? Ep 546
+1:32:03 Hot Salad Ep 508
+1:36:26 Weedwhacking Style Ep 465
+1:41:46 Marilyn Monroe With 2 Guns Ep 326
+1:48:47 Where Is Wizard Hut? Ep 258
+1:57:23 Hand Dog Face Cat Ep 432
+2:08:23 Paskebbi Please Ep 328
+2:16:47 Warrior Cat Names Ep 33
+2:21:41 Damn Todd! Ep 366
+2:30:12 Wizard Swears Ep 251</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-9cWssJB_AzQ/mbmbam-yahoo-hall-of-fame-9cWssJB_AzQ.mp3" length="90901727" type="audio/mpeg"/>
+      <itunes:duration>2:34:54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>griffin being the babiest brother</title>
+      <link>https://www.youtube.com/watch?v=k8mT0p2_9fE</link>
+      <guid isPermaLink="false">k8mT0p2_9fE</guid>
+      <pubDate>Sat, 11 Jul 2026 21:25:49 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family. mbmbam tv show is property of seeso
+
+clips taken from the following episodes with timestamps listed below:
+0:00 Griffin’s in a mood Ep 629
+0:46 Play along at home Ep 497
+1:50 Griffin quits and plays Pokemon Ep 488
+4:02 Griffin bullies Justin into almost drowning Ep 437
+10:04 The end of the podcast Ep 405
+10:54 Work of fart stinger Ep 637
+13:30 Cakes and creams Ep 456
+15:21 Griffin gets elecrocuted MBMBaM tv show Ep 6
+15:40 Griffin heckles Justin Ep 293
+18:49 Baby Yoda paper energy Ep 749
+24:14 From jerking it? Ep 356
+25:17 Fraiser regenerations Ep 527
+29:36 Cromslor Ep 324
+30:37 Imagine an egg Ep 389
+32:12 Griffin needs to get something on the record Ep 762
+35:12 Griffin puts Justin’s spotify put on blast Ep 220
+37:25 The moneyzone incident Ep 407
+40:44 The same blastoise Ep 270
+41:39 Sonic’s birthday party Ep 505
+47:03 Egg conundrum Ep 643
+48:57 Change your shirt MBMBaM tv show Ep 2</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-k8mT0p2_9fE/griffin-being-the-babiest-brother-k8mT0p2_9fE.mp3" length="28582884" type="audio/mpeg"/>
+      <itunes:duration>49:08</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>(some of) my fav justin laughs</title>
+      <link>https://www.youtube.com/watch?v=MkneqZOFXrw</link>
+      <guid isPermaLink="false">MkneqZOFXrw</guid>
+      <pubDate>Thu, 09 Jul 2026 00:50:35 +0000</pubDate>
+      <description>i own nothing, mbmbam and taz are property of the mcelroy family and maximum fun, monster factory is property of the mcelroy family and polygon, the mbmbam tv show is property of seeso, til death do us blart is property of little empire podcasts</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-MkneqZOFXrw/some-of-my-fav-justin-laughs-MkneqZOFXrw.mp3" length="14314231" type="audio/mpeg"/>
+      <itunes:duration>26:08</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>My Brother My Brother and Grandpa Dan</title>
+      <link>https://www.youtube.com/watch?v=idctk6vgmdk</link>
+      <guid isPermaLink="false">idctk6vgmdk</guid>
+      <pubDate>Sat, 04 Jul 2026 23:06:55 +0000</pubDate>
+      <description>a comp of grandpa dan mentions/stories for my fellow g-pa dan fans
+
+i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+clips taken from the following episodes: 567, 569, 581, 621, 642, 671, 712, 714, 719, 746</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-idctk6vgmdk/my-brother-my-brother-and-grandpa-dan-idctk6vgmdk.mp3" length="6000604" type="audio/mpeg"/>
+      <itunes:duration>10:35</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Oops! All Bits: With Special Guest</title>
+      <link>https://www.youtube.com/watch?v=Dhh63qR1Qbc</link>
+      <guid isPermaLink="false">Dhh63qR1Qbc</guid>
+      <pubDate>Thu, 02 Jul 2026 19:43:41 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+Thumbnail taken from the mbmbam wiki page created by blartina 
+
+clips taken from the following episodes with time stamps listed below:
+
+0:00 Ep 586
+14:19 Ep 657
+22:34 Ep 665
+30:35 Ep 670 
+37:15 Ep 673
+42:29 Ep 676
+48:28 Ep 682
+54:30 Ep 688 
+59:50 Ep 712
+1:07:34 Ep 717</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-Dhh63qR1Qbc/mbmbam-oops-all-bits-with-special-guest-Dhh63qR1Qbc.mp3" length="42653323" type="audio/mpeg"/>
+      <itunes:duration>1:15:34</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Wizard of the Cloud (Episodes 550-575)</title>
+      <link>https://www.youtube.com/watch?v=90tS-rbf-U4</link>
+      <guid isPermaLink="false">90tS-rbf-U4</guid>
+      <pubDate>Tue, 30 Jun 2026 22:49:04 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+clips taken from the following episodes with timestamps listed below:
+0:00 How To Hide From A Murderer Ep 562
+8:16 How To Act When Near A Coyote Ep 563
+17:50 How To Be Catlike Ep 564
+29:49 How To Get Shampoo Out Of Your Eyes Ep 565
+39:23 How To Make Your Cousin Jealous Ep 566
+49:05 How To Differentiate Between a Real Skater and a Poser Skater Ep 567
+58:52 How To Apologize to a Cat Ep 568
+1:10:19 How To Throw a Les Misérables Birthday Party Ep 569 
+1:23:00 How to Live In A Haunted House Ep 570
+1:31:21 How To Appear To Have Snow Power Ep 571
+1:41:12 How To Become A Civil War Corpse Ep 572
+1:57:06 How To Regain Control of a Spooked Camel Ep 574
+2:06:46  How to Survive an Encounter with an Ostrich Ep 575</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-90tS-rbf-U4/mbmbam-wizard-of-the-cloud-episodes-550-575-90tS-rbf-U4.mp3" length="86124394" type="audio/mpeg"/>
+      <itunes:duration>2:17:55</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Oops! All Bits: Reach For The Stars</title>
+      <link>https://www.youtube.com/watch?v=UXx3tIgLSyA</link>
+      <guid isPermaLink="false">UXx3tIgLSyA</guid>
+      <pubDate>Mon, 29 Jun 2026 21:54:30 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+unfortunately i couldn’t find all the reviews as some might have been removed or deleted
+
+clips taken from the following episodes with timestamps listed below:
+0:00 Ep 487
+6:41 Ep 491 
+14:15 Ep 498
+19:00 Ep 558</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-UXx3tIgLSyA/mbmbam-oops-all-bits-reach-for-the-stars-UXx3tIgLSyA.mp3" length="14155796" type="audio/mpeg"/>
+      <itunes:duration>23:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Wizard of the Cloud: Quora</title>
+      <link>https://www.youtube.com/watch?v=rb1xnpqOTxY</link>
+      <guid isPermaLink="false">rb1xnpqOTxY</guid>
+      <pubDate>Sun, 28 Jun 2026 20:31:46 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+clips taken from the following episodes with timestamps listed below:
+0:00 Ep 560
+8:45 Ep 561
+14:39 Ep 564
+17:34 Ep 605</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-rb1xnpqOTxY/mbmbam-wizard-of-the-cloud-quora-rb1xnpqOTxY.mp3" length="14843435" type="audio/mpeg"/>
+      <itunes:duration>24:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM The Musical</title>
+      <link>https://www.youtube.com/watch?v=p1OG9OkhXss</link>
+      <guid isPermaLink="false">p1OG9OkhXss</guid>
+      <pubDate>Sat, 27 Jun 2026 02:25:27 +0000</pubDate>
+      <description>compilation of the musical bits and goofs
+
+money zone jingles and send in the clowns are not included, they can be found in a separate comp here https://www.youtube.com/watch?v=5g0cfITNgI4&amp;t=349s and here https://www.youtube.com/watch?v=yIM55HDsyYk
+
+i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+clips taken from the following episodes with time stamps listed below:
+0:00 Simply the Guests Ep 662
+0:23 Dogs the Musical Ep 579
+2:11 Anything Can Happen On Halloween Ep 378
+5:33 Ice Cream Songs Ep 414
+7:46 Wings Theme Songs Ep 262
+11:18 Stacy’s Mom/Dad Ep 418
+14:20 The Gambler Ep 319
+17:50 Shrimp Heaven (performed by Lin Manuel Miranda) Ep 376
+20:20 Faster Car Ep 413
+21:51 A History of Broadway Medley Ep 429
+24:00 Haunted Christmas Doll Ep 432
+24:35 Rhythm of the City Ep 509
+25:36 Kinky Pina Colada Song Ep 535
+26:01 Les Misérables Birthday Song Ep 569
+26:55 WikiHow Song Writing Lessons Ep 705
+28:09 Trav Nation Anthem Ep 720
+31:49 Phillip the Singing Telegram Ep 759
+35:50 Oogie Boogie BugBag Ep 779
+37:41 We Didn’t Start The Brothers (performed by Lin Manuel Miranda) Ep 482
+41:33 Rugrats Outro Song Ep 551</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-p1OG9OkhXss/mbmbam-the-musical-p1OG9OkhXss.mp3" length="23697343" type="audio/mpeg"/>
+      <itunes:duration>42:01</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Clubhouse Bits: Where's The Fire?</title>
+      <link>https://www.youtube.com/watch?v=r47hv9-khTo</link>
+      <guid isPermaLink="false">r47hv9-khTo</guid>
+      <pubDate>Fri, 26 Jun 2026 00:38:51 +0000</pubDate>
+      <description>i own nothing, the mcelroy family clubhouse is property of the mcelroy family
+
+clips taken from the following clubhouse episodes: 40, 45, 53, 69 (nice)</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-r47hv9-khTo/clubhouse-bits-wheres-the-fire-r47hv9-khTo.mp3" length="43917738" type="audio/mpeg"/>
+      <itunes:duration>1:24:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Send In The Brothers</title>
+      <link>https://www.youtube.com/watch?v=yIM55HDsyYk</link>
+      <guid isPermaLink="false">yIM55HDsyYk</guid>
+      <pubDate>Tue, 23 Jun 2026 23:54:55 +0000</pubDate>
+      <description>justin (and travis originally!) singing his favorite song
+
+i own nothing, mbmbam is property of maximum fun and the mcelroy family. send in the clowns was written by Stephen Sondheim
+
+clips taken from the following episodes (in order of air date): 
+Ep 100 in honor of 100 episodes (sung by Travis)
+Ep 200 in honor of 200 episodes
+Ep 250 in honor of 250 episodes
+Ep 300 in honor of 300 episodes
+Ep 475 in honor of the joker movie
+Ep 500 in honor of 500 episodes
+Ep 506 in honor of 10 years
+Ep 420 in honor of the end of yahoo answers</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-yIM55HDsyYk/send-in-the-brothers-yIM55HDsyYk.mp3" length="8503935" type="audio/mpeg"/>
+      <itunes:duration>14:48</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM: Brotherisms</title>
+      <link>https://www.youtube.com/watch?v=9crt99NaG-s</link>
+      <guid isPermaLink="false">9crt99NaG-s</guid>
+      <pubDate>Sun, 21 Jun 2026 01:58:54 +0000</pubDate>
+      <description>note: not all of these were created by the brothers, just phrases they commonly use
+
+i own nothing, mbmbam is property of maximum fun and the mcelroy family</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-9crt99NaG-s/mbmbam-brotherisms-9crt99NaG-s.mp3" length="3710644" type="audio/mpeg"/>
+      <itunes:duration>6:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Clubhouse Bits: Will It Kill You?</title>
+      <link>https://www.youtube.com/watch?v=IvHaraEAH5U</link>
+      <guid isPermaLink="false">IvHaraEAH5U</guid>
+      <pubDate>Sat, 20 Jun 2026 23:57:49 +0000</pubDate>
+      <description>i own nothing, the mcelroy family clubhouse is property of the mcelroy family
+
+clips taken from the following clubhouse episodes: 27, 36, 55, 61</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-IvHaraEAH5U/clubhouse-bits-will-it-kill-you-IvHaraEAH5U.mp3" length="47543567" type="audio/mpeg"/>
+      <itunes:duration>1:27:31</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>My Brother My Brother and TurboTeen</title>
+      <link>https://www.youtube.com/watch?v=TmIGO2xYa1s</link>
+      <guid isPermaLink="false">TmIGO2xYa1s</guid>
+      <pubDate>Fri, 19 Jun 2026 00:51:48 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+0:00 Ep 35
+2:58 Ep 181
+4:22 Ep 237
+4:59 Ep 254
+5:33 Ep 278
+6:41 Ep 333
+7:12 Ep 397
+7:40 Ep 419
+7:48 Ep 423
+8:16 Ep 432
+12:22 Ep 452
+12:41 Ep 469
+13:07 Ep 481
+13:44 Ep 482
+14:14 Ep 621
+14:27 Ep 623
+14:47 Ep 719</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-TmIGO2xYa1s/my-brother-my-brother-and-turboteen-TmIGO2xYa1s.mp3" length="9415937" type="audio/mpeg"/>
+      <itunes:duration>15:49</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>My Brother My Brother VS Me</title>
+      <link>https://www.youtube.com/watch?v=JaK28N3-P7o</link>
+      <guid isPermaLink="false">JaK28N3-P7o</guid>
+      <pubDate>Wed, 17 Jun 2026 22:16:51 +0000</pubDate>
+      <description>compilation of the best arguments/brothers ragebaiting each other
+
+i own nothing, mbmbam is property of maximum fun and the mcelroy family, the mbmbam tv show is property of seeso
+
+clips taken from the following episodes with timestamps listed below:
+0:00 Case of the Mondays Ep 220
+2:13 Justin Knows The Answer Ep 396
+4:02 Justin’s Big Nice Trash Bags Ep 523
+6:33 Curse a Real Sword Ep 269
+7:19 Travis Talks About Old Beef Ep 477
+13:19 Raw Fettuccine Ep 436
+15:20 Stealing Ep 174
+17:52 Justin Takes Dolly Parton to Mars Ep 546
+19:27 Hot Grapes Ep 448
+28:15 Justin Has a Weed Boy Ep 465
+30:33 Bone Dry Feeners Ep 313
+33:22 Mark Spotify CEO of Squarespace Ep 753
+34:37 The Same Blastoise Ep 270
+35:32 MBMBaM TV Show Ep 2
+35:57 The Gushie Tapes Ep 278
+38:58 Play Along At Home Ep 495
+43:13 The Money Zone Incident Ep 407
+46:31 Tic-Tac-Toe Ep 361
+47:57 Travis’s Special Wedding Underwear Ep 206
+50:23 Hot Salad Ep 508
+54:48 This is When I Do My Job Ep 752
+59:46 How to Pee in the Ocean Ep 698
+1:05:27 Benjamins/Franklins Ep 677
+1:09:13 Birthday Surprise Hole Ep 259
+1:11:40 Sonic Birthday Party Ep 505
+1:17:10 Grocery Store Grape Snacking Ep 778
+1:22:53 Travis Sees Night at the Museum Ep 289
+1:27:14 Griffin Impressions Ep 302
+1:28:42 Griffin’s Valentine Surprise Ep 447
+1:38:00 Darude Sandstorm Ep 695
+1:40:02 Walking Sticks Ep 711</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-JaK28N3-P7o/my-brother-my-brother-vs-me-JaK28N3-P7o.mp3" length="60695058" type="audio/mpeg"/>
+      <itunes:duration>1:43:53</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Oops! All Bits: Abnimals</title>
+      <link>https://www.youtube.com/watch?v=GRno85Cliao</link>
+      <guid isPermaLink="false">GRno85Cliao</guid>
+      <pubDate>Tue, 16 Jun 2026 22:59:07 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcleroy family. mcerloy family clubhouse is property of the mcelroy family
+
+clips taken from the following episodes with timestamps listed below:
+0:00 Ep 643 
+6:55 Ep 644
+8:13 Ep 645
+17:38 Ep 648
+25:21 Ep 667
+30:50 Ep 737
+43:48 Clubhouse Ep 3
+59:42 Clubhouse Ep 25
+1:20:36 Clubhouse Ep 42
+1:38:49 Clubhouse Ep 63
+1:49:35 Clubhouse Ep 71</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-GRno85Cliao/mbmbam-oops-all-bits-abnimals-GRno85Cliao.mp3" length="69901389" type="audio/mpeg"/>
+      <itunes:duration>2:07:59</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM: Man Vs Bee Watch Saga</title>
+      <link>https://www.youtube.com/watch?v=7uyCTRzrLA0</link>
+      <guid isPermaLink="false">7uyCTRzrLA0</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:15 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+clips taken from the following episodes:
+606
+607
+611
+613
+616
+617
+619
+789</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-7uyCTRzrLA0/mbmbam-man-vs-bee-watch-saga-7uyCTRzrLA0.mp3" length="51149239" type="audio/mpeg"/>
+      <itunes:duration>1:21:55</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Oops! All Bits: Monthly Observances</title>
+      <link>https://www.youtube.com/watch?v=rY6xbRy4XmE</link>
+      <guid isPermaLink="false">rY6xbRy4XmE</guid>
+      <pubDate>Sun, 14 Jun 2026 19:01:59 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+clips taken from the following episodes:
+37
+41
+45
+49
+53
+58
+63
+66
+71
+75
+79
+82
+90
+107
+294
+626</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-rY6xbRy4XmE/mbmbam-oops-all-bits-monthly-observances-rY6xbRy4XmE.mp3" length="45376138" type="audio/mpeg"/>
+      <itunes:duration>1:18:33</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Oops! All Bits: One Bit Wonders</title>
+      <link>https://www.youtube.com/watch?v=nMW8-2GSMzE</link>
+      <guid isPermaLink="false">nMW8-2GSMzE</guid>
+      <pubDate>Sat, 13 Jun 2026 01:12:15 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+clips taken from the following episodes with timestamps listed below:
+0:00 Which One Vapes? Ep 321
+10:04 What Do You Think You Would Do If...? Ep 397
+22:41 Proverb Punch Up Ep 409
+32:54 Where Is It Now? Ep 449
+38:18 Off To See The Lizard Ep 457
+43:43 Pilot Season Ep 461
+56:38 Jokes My Daughter Texted Me Ep 479
+58:07 Cameo Cost Quiz Ep 514
+1:12:31 TikTok O’ Clock Ep 517
+1:16:23 Pod Decks Ep 550
+1:26:11 That’s Interesting Trivia, Son! Ep 557
+1:28:24 Cryptoast of the Town Ep 570
+1:38:16 Master of Master of Disguise Ep 577
+1:47:32 Icebreaker Ep 581
+1:49:27 Building a Mystery Ep 614
+1:58:47 Simply the Guests Ep 662
+2:12:29 Webs &amp; Posies Ep 663
+2:25:12 Ask Me a Brother One Ep 696
+2:35:17 Mr Worldwide! In the Bullpit Ep 707
+2:40:43 WikiHow Quiz Ep 742
+2:56:33 Rankin Bass or Stankin’ Ass Butt Ep 743
+3:04:48 Rhyme Crimes Ep 765
+3:09:37 Mascot Madness: University Edition Ep 768</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-nMW8-2GSMzE/mbmbam-oops-all-bits-one-bit-wonders-nMW8-2GSMzE.mp3" length="118588245" type="audio/mpeg"/>
+      <itunes:duration>3:19:12</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Oops! All Bits: Haunted Doll Watch (Episodes 500-811)</title>
+      <link>https://www.youtube.com/watch?v=Gcv6q9q-P8I</link>
+      <guid isPermaLink="false">Gcv6q9q-P8I</guid>
+      <pubDate>Thu, 11 Jun 2026 16:46:59 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+please note that not all dolls/listings will have pictures. not all of the listings were archived
+
+part 1 here: https://www.youtube.com/watch?v=AT_gqxxrPgg&amp;t=4373s
+
+clips taken from the following episodes with timestamps listed below:
+0:00 Melissa Tangible Ep 508
+5:02 Haunted NOT doll Ep 540
+15:01 Christian Ep 565
+23:20 Cloe/Bea Ep 589
+30:39 Justin’s Haunted Doll Unboxing
+39:00 Travis’s Haunted Doll Unboxing
+48:34 Griffin’s Haunted Doll Unboxing
+1:08:00 Justina/Lil’ Spitz Ep 609
+1:18:28 Rov Ep 615
+1:24:47 Positive Leroy/Neutral Lauren/Dijinn Wish Ep 620
+1:36:00 Stella/Jenga/Miguel Ep 621
+1:47:39 Spirit of Sky/Todd Ep 622
+1:59:01 Mary 630
+2:04:35 Baby Boppy Ep 653
+2:13:13 Demon Box Ep 665
+2:27:32 Rita Ep 673
+2:35:34 James/Belial/Asmodeus Clubhouse Ep 11
+2:53:40 Doll Face Mask/Tod Trickster/Bobby/Hugo Ep 709
+3:03:33 James Griffin/Flickering Hope/Grandmother Ep 717
+3:21:54 Touches You Bert/Adam/Evangeline Ep 721
+3:29:45 Milvia/Esme/Painting Ep 737
+3:37:54 Truman/Luke and Joseph/Tony Ep 741
+3:45:18 Teeny the Tiny Witch Ep 755
+3:50:16 Haunted Doll Activation/Spells Ep 765
+4:03:36 Lydelia/Heather/Paul Ep 773
+4:20:05 Haunted Garfield Doll Ep 811</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-Gcv6q9q-P8I/mbmbam-oops-all-bits-haunted-doll-watch-episodes-500-811-Gcv6q9q-P8I.mp3" length="145449167" type="audio/mpeg"/>
+      <itunes:duration>4:24:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Oops! All Bits: Haunted Doll Watch (Episodes 200-499)</title>
+      <link>https://www.youtube.com/watch?v=AT_gqxxrPgg</link>
+      <guid isPermaLink="false">AT_gqxxrPgg</guid>
+      <pubDate>Tue, 09 Jun 2026 23:43:08 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+please note that not every doll/listing will have a picture. not all of the listings were archived
+
+part 2 here: https://www.youtube.com/watch?v=Gcv6q9q-P8I&amp;t=2285s
+
+clips taken from the following episodes with timestamps listed below:
+0:00 Kevin/Demonic Clown Doll Ep. 235
+7:50 Alicia Ep 236
+11:42 Ruth Ep 240
+17:21 Katie/Frida Ep 243
+25:12 Jeanie Ep 252
+32:25 Ava Ep 267
+38:45 Mary Ep 294
+47:25 Gretchen Ep 295
+53:57 American Indian Witch's Doll Ep 296
+57:53 Sunshine Mikiya Ep 312
+59:44 Samantha Ep 329
+1:06:04 Addiline Ep 345
+1:11:33 Janet Ep 359
+1:17:23 Navitius Ep 371
+1:25:46 Rose Ep 377
+1:30:31 Jessie Ep 381
+1:36:49 punkinleah Ep 394
+1:40:35 Porcelain Doll With Orbs / Paranormal / Stunning! Ep 402
+1:48:11 Sandi Ep 416
+1:57:01 Fletcher Ep 419
+2:03:53 Stacy Ep 423
+2:12:27 Goldie Ep 425
+2:17:06 Kayla Ep 430
+2:27:44 Gloria Ep 434
+2:34:05 Christmas Stocking Ep 439
+2:40:45 Mischievous Raya Ep 443
+2:46:25 Jade Ep 450
+2:54:38 Elsaneth Ep 469
+3:04:10 Jillian Ep 476
+3:08:28 Female Spirit Companion Seduction Pendant Ep 479
+3:13:58 Jody Ep 491
+3:20:59 Protection Troll Doll Ep 494
+3:28:27 Bumbum Ep 498</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-AT_gqxxrPgg/mbmbam-oops-all-bits-haunted-doll-watch-episodes-200-499-AT_gqxxrPgg.mp3" length="122989583" type="audio/mpeg"/>
+      <itunes:duration>3:37:22</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Clubhouse Bits: Energy Dragon (Season 1)</title>
+      <link>https://www.youtube.com/watch?v=0ujZzI_iBzk</link>
+      <guid isPermaLink="false">0ujZzI_iBzk</guid>
+      <pubDate>Mon, 08 Jun 2026 21:47:12 +0000</pubDate>
+      <description>i own nothing, the mcelroy family clubhouse is property of the mcelroy family
+
+clips taken from the following episodes with timestamps below:
+0:00 Charizard Ep 1
+5:58 Smaug Ep 6
+14:22 Figment Ep 11
+20:11 Falcor Ep 19
+26:08 Toothless Ep 21
+34:57 Lego Dragon Ep 25
+42:02 Vintage Spike Ep 27
+48:12 Maleficent Ep 29
+58:10 Trogdor Ep 32</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-0ujZzI_iBzk/clubhouse-bits-energy-dragon-season-1-0ujZzI_iBzk.mp3" length="39126759" type="audio/mpeg"/>
+      <itunes:duration>1:12:49</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>my process</title>
+      <link>https://www.youtube.com/watch?v=81eyL-3qbAg</link>
+      <guid isPermaLink="false">81eyL-3qbAg</guid>
+      <pubDate>Sun, 07 Jun 2026 16:57:32 +0000</pubDate>
+      <description>here is how i make my videos for anyone interested! 
+
+the programs i use are wondershare filmora and clips cutter (i pay for both but there are free verisons available) and the mbmbam wiki is extremely helpful for finding the bits and clips</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-81eyL-3qbAg/my-process-81eyL-3qbAg.mp3" length="3517618" type="audio/mpeg"/>
+      <itunes:duration>6:27</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Oops! All Bits: Money Zone Jingles</title>
+      <link>https://www.youtube.com/watch?v=5g0cfITNgI4</link>
+      <guid isPermaLink="false">5g0cfITNgI4</guid>
+      <pubDate>Sun, 07 Jun 2026 02:48:51 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+clips taken from the following episodes with timestamps below:
+0:00 Thrifty Nerd Ep 41
+0:19 Kingdom of Loathing Ep 46
+0:52 Lion In Tweed/griffinspacejam.com Ep 47
+2:53 PC Perspective Ep 48
+4:22 RootSuit Ep 49
+5:55 Rob/PC Perspective Ep 52
+7:57 Soccer Wedding Ep 53
+10:04 Kiss the Girl Parody Ep 54
+12:04 Personal Message/British Crime Shows Ep 55
+13:53 Crime Fighting Ball Shavers Ep 56
+14:55 Electro Brian/Luminous Electric Ep 57
+16:10 Birthday Town Ep 58
+17:05 Matrimony Train Ep 60
+18:31 Captain Mike and the Gorilla Ep 61
+19:29 Ladies With a K Name Ep 63
+20:54 John Cougar Mellencamp Ep 64
+22:10 Personal Message/Game Over Nation Ep 65
+22:58 Bloody Fantastical Ep 66
+23:41 Steve’s 5 Moments of Fame Ep 67
+23:51 DuoDater Ep 71
+24:44 Topatoco Ep 86
+25:28 If You Like Ep 88
+26:29 Monster Guru Ep 90
+27:16 Stack Soap Ep 92
+27:55 Apple and Kiwi Comics Ep 93
+28:25 Put Your Soap In My Soap (demo) Ep 94
+29:03 Put Your Soap In My Soap Ep 95
+30:04 Extreme Restraints Ep 99
+31:35 Cast of Thrones Ep 100
+32:15 Hey, What’s That Smell Ep 102
+33:10 With Pleasure Ep 103
+34:12 Somebody Once Told Me Your Art Is Old And Boring Ep 104
+34:53 Dreams Around Ep 105
+36:17 Bing/Red Sky Phenomenon Ep 108
+38:15 Maximum Fun Drive Ep 295</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-5g0cfITNgI4/mbmbam-oops-all-bits-money-zone-jingles-5g0cfITNgI4.mp3" length="22271309" type="audio/mpeg"/>
+      <itunes:duration>41:44</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Clubhouse Bits: Telly Title Tellers</title>
+      <link>https://www.youtube.com/watch?v=sZnu2ToXPn0</link>
+      <guid isPermaLink="false">sZnu2ToXPn0</guid>
+      <pubDate>Fri, 05 Jun 2026 19:40:39 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family. mcelroy family clubhouse is property of the mcelroy family
+
+clips taken from the following episodes:
+mbmbam 700
+clubhouse episodes: 8, 13, 23, 27, 36, 42, 55, 69</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-sZnu2ToXPn0/clubhouse-bits-telly-title-tellers-sZnu2ToXPn0.mp3" length="85528791" type="audio/mpeg"/>
+      <itunes:duration>2:44:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Oops! All Bits: Movie Watch 20XX (Episodes 500-800)</title>
+      <link>https://www.youtube.com/watch?v=6ZiuWWOniUQ</link>
+      <guid isPermaLink="false">6ZiuWWOniUQ</guid>
+      <pubDate>Wed, 03 Jun 2026 22:05:46 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcleroy family
+
+note: war with grandpa watch (episode 528 is not in this video since the entire episode is a watch)
+
+clips taken from the following episodes with timestamps below:
+0:00 SCOOB! Ep. 509 
+1:46 Old Ep. 516 
+6:05 Batman Ep. 524
+14:41 F9 Ep. 566
+18:19 Dune Ep. 574
+22:58 Marry Me Ep. 587
+33:11 Blart Ep. 595
+39:10 Batman Ep. 602
+56:57 Morbius Ep. 605
+1:10:39 Plane Ep. 644
+1:20:20 Tetris Ep. 654
+1:32:21 Mario Ep. 656
+1:37:35 Wonka Part 1 Ep. 664
+1:44:46 Wonka Part 2 Ep. 669
+2:06:27 Wonka vs Ghostbusters Ep. 686
+2:22:02 Madame Web Ep. 706
+2:43:24 Garfield Ep. 714
+2:51:58 Trap Ep. 726
+2:57:08 Megalopolis Ep. 732
+3:06:24 Hamnet Ep. 792</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-6ZiuWWOniUQ/mbmbam-oops-all-bits-movie-watch-20xx-episodes-500-800-6ZiuWWOniUQ.mp3" length="119924276" type="audio/mpeg"/>
+      <itunes:duration>3:14:13</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Oops! All Bits: Movie Watch 20XX (Episodes 50-500)</title>
+      <link>https://www.youtube.com/watch?v=KCNZc3-L5a4</link>
+      <guid isPermaLink="false">KCNZc3-L5a4</guid>
+      <pubDate>Tue, 02 Jun 2026 23:54:49 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+clips taken from the following episodes with timestamps below:
+0:00 Thor Ep. 54
+1:15 Thor 2013 Ep. 176
+4:18 Guardians of the Galaxy Ep. 212
+7:17 Star Wars Ep. 228
+12:50 50 Shades of Grey Ep. 239
+19:04 Blart 2 Ep. 249
+24:53 By The Sea Ep. 277
+27:15 Kung Fu Panda 3 Ep. 290
+36:52 Captain America Civil War Ep. 302
+43:59 Trolls Ep. 319
+52:53 Dr. Strange Ep. 326
+1:02:16 A Dog's Purpose Ep. 339
+1:15:26 Guardians of the Galaxy 2/Boss Baby Ep. 353
+1:20:53 Captain Underpants Ep. 358
+1:27:46 Thor 2017 Ep. 383
+1:38:17 Avengers Infinity War Ep. 405
+1:45:03 Jurassic World Ep. 412
+1:50:44 The Predator Ep. 424
+2:00:03 Johnny English Strikes Again Ep. 431
+2:05:00 The Crimes of Grindelwald Ep. 434
+2:11:55 Glass Ep. 442
+2:19:34 They Shall Not Grow Old Ep. 444
+2:30:07 Shazam Ep. 452
+2:35:40 Joker Ep. 475
+2:43:44 Frozen 2 Ep. 486</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-KCNZc3-L5a4/mbmbam-oops-all-bits-movie-watch-20xx-episodes-50-500-KCNZc3-L5a4.mp3" length="104111160" type="audio/mpeg"/>
+      <itunes:duration>2:51:14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Characters Welcome: Justin Edition</title>
+      <link>https://www.youtube.com/watch?v=SJZV75Wbtic</link>
+      <guid isPermaLink="false">SJZV75Wbtic</guid>
+      <pubDate>Tue, 02 Jun 2026 00:54:17 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcleroy family
+
+note: count donut and richard stink are not in this compliation, they have their own compliation videos on my channel
+
+clips taken from the following episodes:
+Isaac: 648, 653, 730 
+Amelie: 191, 220, 221, 345 
+The Penguin: 754
+Pumpkmanis: 677 
+Reggie Bigshot: 519, 544 
+Poppy: 703 
+Edward Snowden: 159 
+Thick Johnson: 597</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-SJZV75Wbtic/mbmbam-characters-welcome-justin-edition-SJZV75Wbtic.mp3" length="40066892" type="audio/mpeg"/>
+      <itunes:duration>1:09:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Oops! All Bits: Work of Fart</title>
+      <link>https://www.youtube.com/watch?v=la6i7TlAuWs</link>
+      <guid isPermaLink="false">la6i7TlAuWs</guid>
+      <pubDate>Mon, 01 Jun 2026 00:19:49 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+clips taken from the following episodes:
+555
+563
+577
+589 
+601 
+609 
+637 
+709 
+731
+754
+771</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-la6i7TlAuWs/mbmbam-oops-all-bits-work-of-fart-la6i7TlAuWs.mp3" length="29596513" type="audio/mpeg"/>
+      <itunes:duration>52:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Oops! All Bits: Fake Final Yahoo</title>
+      <link>https://www.youtube.com/watch?v=9y-dIDQwNME</link>
+      <guid isPermaLink="false">9y-dIDQwNME</guid>
+      <pubDate>Sun, 31 May 2026 01:00:18 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+clips taken from the following episodes:
+560
+561
+562
+563
+565
+566
+567
+568
+569
+570
+571
+572
+574
+575
+576
+577
+578
+579
+580
+581
+582
+583
+584
+585
+586
+587
+588
+589
+590
+592
+593
+594
+595
+596
+597</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-9y-dIDQwNME/mbmbam-oops-all-bits-fake-final-yahoo-9y-dIDQwNME.mp3" length="23372343" type="audio/mpeg"/>
+      <itunes:duration>43:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Characters Welcome: Travis Edition</title>
+      <link>https://www.youtube.com/watch?v=9RBxfSNTB84</link>
+      <guid isPermaLink="false">9RBxfSNTB84</guid>
+      <pubDate>Sat, 30 May 2026 19:33:15 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+clips taken from the following episodes:
+Mrs B: 577 
+Beepblork: 543, 544, 545, 546
+Clipping yoda: 653, 662, 668
+Jumbo Tron: 380
+Salty grandma: 646 
+Steve peanutbutter: 396 
+Terry the nondenominational gift delivery dragon: 386 
+Zebular: 403</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-9RBxfSNTB84/mbmbam-characters-welcome-travis-edition-9RBxfSNTB84.mp3" length="12262836" type="audio/mpeg"/>
+      <itunes:duration>21:27</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Oops! All Bits: Play Along At Home</title>
+      <link>https://www.youtube.com/watch?v=QdyVaVJCpIA</link>
+      <guid isPermaLink="false">QdyVaVJCpIA</guid>
+      <pubDate>Sat, 30 May 2026 01:52:33 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+clips taken from the following episodes:
+495
+497
+501
+506
+509
+516
+540
+608
+638
+687
+757</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-QdyVaVJCpIA/mbmbam-oops-all-bits-play-along-at-home-QdyVaVJCpIA.mp3" length="36681064" type="audio/mpeg"/>
+      <itunes:duration>1:01:22</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Oops! All Bits: Farm Wisdom</title>
+      <link>https://www.youtube.com/watch?v=-klIwx7NUmY</link>
+      <guid isPermaLink="false">-klIwx7NUmY</guid>
+      <pubDate>Tue, 26 May 2026 22:05:04 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of the mcelroy family and maximum fun
+
+clips taken from the following episodes:
+
+154 
+155 
+156 
+157 
+158 
+159 
+162 
+163 
+164 
+165 
+166 
+171 
+174 
+175 
+178 
+220 
+221 
+239 
+240 
+243 
+261 
+294
+295
+381
+389
+449
+451
+479
+755</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep--klIwx7NUmY/mbmbam-oops-all-bits-farm-wisdom--klIwx7NUmY.mp3" length="67090613" type="audio/mpeg"/>
+      <itunes:duration>1:54:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Oops! All Bits: Celebrity Wine Why Not?</title>
+      <link>https://www.youtube.com/watch?v=5ucwOskfie8</link>
+      <guid isPermaLink="false">5ucwOskfie8</guid>
+      <pubDate>Sun, 24 May 2026 22:31:33 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+clips taken from the following episodes:
+403
+412
+497
+521
+685
+McElroy Family Clubhouse: Miggy: 1 Justin: 0</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-5ucwOskfie8/mbmbam-oops-all-bits-celebrity-wine-why-not-5ucwOskfie8.mp3" length="40738209" type="audio/mpeg"/>
+      <itunes:duration>1:12:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>monster factory comparisons that are basically poetry part 2</title>
+      <link>https://www.youtube.com/watch?v=No_ltpZBzps</link>
+      <guid isPermaLink="false">No_ltpZBzps</guid>
+      <pubDate>Sun, 24 May 2026 01:07:38 +0000</pubDate>
+      <description>i own nothing, monster factory is property of polygon and the mcelroy family</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-No_ltpZBzps/monster-factory-comparisons-that-are-basically-poetry-part-2-No_ltpZBzps.mp3" length="4004233" type="audio/mpeg"/>
+      <itunes:duration>7:13</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>monster factory comparisons that are basically poetry</title>
+      <link>https://www.youtube.com/watch?v=T34RaVe2V2s</link>
+      <guid isPermaLink="false">T34RaVe2V2s</guid>
+      <pubDate>Thu, 21 May 2026 00:16:55 +0000</pubDate>
+      <description>i own nothing, monster factory is property of polygon and the mcelroy family</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-T34RaVe2V2s/monster-factory-comparisons-that-are-basically-poetry-T34RaVe2V2s.mp3" length="4832585" type="audio/mpeg"/>
+      <itunes:duration>8:43</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Oops! All Bits: That's a Christmas to Me</title>
+      <link>https://www.youtube.com/watch?v=NoW76F-j3Qo</link>
+      <guid isPermaLink="false">NoW76F-j3Qo</guid>
+      <pubDate>Wed, 20 May 2026 00:12:20 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+clips taken from the following episodes:
+435
+436
+489
+candlenights 2023 VOD
+736
+794</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-NoW76F-j3Qo/mbmbam-oops-all-bits-thats-a-christmas-to-me-NoW76F-j3Qo.mp3" length="43485117" type="audio/mpeg"/>
+      <itunes:duration>1:15:49</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Oops! All Bits: Minion Quotes</title>
+      <link>https://www.youtube.com/watch?v=zDV8Dfs-iY4</link>
+      <guid isPermaLink="false">zDV8Dfs-iY4</guid>
+      <pubDate>Sun, 17 May 2026 16:59:16 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family. characters in the pictures are properties of their creators and owners.
+
+note: some of these are not the exact memes, some are very hard to find since their groups have either been privated or deleted. some of them are either similar ones or ones i made myself. also, these are not all the minion quotes segments as some are from live shows that have not been published or maximum fun member exclusive episodes that i did not feel comfortable including. anyway, please enjoy one of my favorite segments!
+
+clips have been taken from the following episodes:
+482
+483
+485
+609
+630
+651
+665
+670
+682
+mcelroy family clubhouse episode  3</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-zDV8Dfs-iY4/mbmbam-oops-all-bits-minion-quotes-zDV8Dfs-iY4.mp3" length="38055782" type="audio/mpeg"/>
+      <itunes:duration>1:11:59</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Oops! All Bits: Riddle Me Piss</title>
+      <link>https://www.youtube.com/watch?v=xZegeRjJnvA</link>
+      <guid isPermaLink="false">xZegeRjJnvA</guid>
+      <pubDate>Sat, 16 May 2026 05:30:04 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+clips taken from the following episodes:
+
+418 
+419 
+421
+422 
+423 
+440 
+443 
+454 
+459 
+469 
+471 
+480 
+483 
+485 
+493 
+501 
+503 
+511 
+518 
+557 
+558 
+559 
+581 
+597 
+698 
+735</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-xZegeRjJnvA/mbmbam-oops-all-bits-riddle-me-piss-xZegeRjJnvA.mp3" length="48219901" type="audio/mpeg"/>
+      <itunes:duration>1:24:54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Characters Welcome: Count Donut Part 2</title>
+      <link>https://www.youtube.com/watch?v=XC08t2hdglE</link>
+      <guid isPermaLink="false">XC08t2hdglE</guid>
+      <pubDate>Wed, 13 May 2026 23:01:55 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+clips taken from the following episodes:
+534
+583
+595
+596
+684
+697
+717
+726
+728
+732
+742
+772
+788
+807</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-XC08t2hdglE/mbmbam-characters-welcome-count-donut-part-2-XC08t2hdglE.mp3" length="81243537" type="audio/mpeg"/>
+      <itunes:duration>2:25:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Characters Welcome: Count Donut Part 1</title>
+      <link>https://www.youtube.com/watch?v=c4OxVLksd54</link>
+      <guid isPermaLink="false">c4OxVLksd54</guid>
+      <pubDate>Tue, 12 May 2026 23:20:12 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcleroy family
+
+clips taken from the following episodes:
+532
+533
+586
+588
+600
+610
+633
+645
+671
+675
+703
+Note: clips are in chronological order but some appearances are missing inbetween clips and will be in part 2</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-c4OxVLksd54/mbmbam-characters-welcome-count-donut-part-1-c4OxVLksd54.mp3" length="68267324" type="audio/mpeg"/>
+      <itunes:duration>1:59:44</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Characters Welcome: Richard Stink</title>
+      <link>https://www.youtube.com/watch?v=KReZ9toqu0Y</link>
+      <guid isPermaLink="false">KReZ9toqu0Y</guid>
+      <pubDate>Mon, 11 May 2026 00:46:10 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family. 
+
+phillip plein commerical is property of phillip plein and song is property of frames brown
+
+clips taken from the following episodes:
+563
+565
+589
+593
+603
+631
+670
+682
+711
+731
+757</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-KReZ9toqu0Y/mbmbam-characters-welcome-richard-stink-KReZ9toqu0Y.mp3" length="83874533" type="audio/mpeg"/>
+      <itunes:duration>2:29:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Characters Welcome: Griffin Edition</title>
+      <link>https://www.youtube.com/watch?v=fZhK8Vb8Cno</link>
+      <guid isPermaLink="false">fZhK8Vb8Cno</guid>
+      <pubDate>Sun, 10 May 2026 03:28:06 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of the mcelroy family and maximum fun</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-fZhK8Vb8Cno/mbmbam-characters-welcome-griffin-edition-fZhK8Vb8Cno.mp3" length="12167410" type="audio/mpeg"/>
+      <itunes:duration>21:27</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>The Complete MBMBaM Vasectisodes</title>
+      <link>https://www.youtube.com/watch?v=8GxQ5u7CR44</link>
+      <guid isPermaLink="false">8GxQ5u7CR44</guid>
+      <pubDate>Sat, 09 May 2026 04:20:26 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-8GxQ5u7CR44/the-complete-mbmbam-vasectisodes-8GxQ5u7CR44.mp3" length="23017355" type="audio/mpeg"/>
+      <itunes:duration>38:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>justin's many web domains</title>
+      <link>https://www.youtube.com/watch?v=3INkcXrmBNY</link>
+      <guid isPermaLink="false">3INkcXrmBNY</guid>
+      <pubDate>Fri, 01 May 2026 00:23:28 +0000</pubDate>
+      <description>a compliation of justin's many websites he's collected 
+
+as always i own nothing, mbmbam is property of maximum fun and the mcelroy family</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-3INkcXrmBNY/justins-many-web-domains-3INkcXrmBNY.mp3" length="13245491" type="audio/mpeg"/>
+      <itunes:duration>22:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>award winning mbmbam ad reads part 3</title>
+      <link>https://www.youtube.com/watch?v=VZ-Q8_wtElc</link>
+      <guid isPermaLink="false">VZ-Q8_wtElc</guid>
+      <pubDate>Thu, 30 Apr 2026 22:22:55 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-VZ-Q8_wtElc/award-winning-mbmbam-ad-reads-part-3-VZ-Q8_wtElc.mp3" length="13277379" type="audio/mpeg"/>
+      <itunes:duration>22:48</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>mcelroy gaming moments that bounce around my brain part 3</title>
+      <link>https://www.youtube.com/watch?v=TsaxJJEdoks</link>
+      <guid isPermaLink="false">TsaxJJEdoks</guid>
+      <pubDate>Sun, 26 Apr 2026 22:36:46 +0000</pubDate>
+      <description>i own nothing. polygon's overview series and griffin's nuzlocke run are properties of polygon. brudder's gate and the remaining gaming livestreams are property of the mcelroy family</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-TsaxJJEdoks/mcelroy-gaming-moments-that-bounce-around-my-brain-part-3-TsaxJJEdoks.mp3" length="8837144" type="audio/mpeg"/>
+      <itunes:duration>15:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>award winning mbmbam ad reads part 2</title>
+      <link>https://www.youtube.com/watch?v=nhzBS6R6DUY</link>
+      <guid isPermaLink="false">nhzBS6R6DUY</guid>
+      <pubDate>Sat, 25 Apr 2026 17:03:50 +0000</pubDate>
+      <description>part 2 of their award winning ad reads, thank you to everyone who suggest more. if you have favorites i missed, comment them below for potential part 3
+
+i own nothing, mbmbam is property of maximum fun and the mcleroy family</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-nhzBS6R6DUY/award-winning-mbmbam-ad-reads-part-2-nhzBS6R6DUY.mp3" length="16958260" type="audio/mpeg"/>
+      <itunes:duration>28:41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>award winning mbmbam ad reads</title>
+      <link>https://www.youtube.com/watch?v=1frlcwZ8LB0</link>
+      <guid isPermaLink="false">1frlcwZ8LB0</guid>
+      <pubDate>Wed, 22 Apr 2026 01:04:13 +0000</pubDate>
+      <description>congrats to the boys on their best ad read award!
+
+i own nothing, mbmbam is property of maximum fun and the mcleroy family</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-1frlcwZ8LB0/award-winning-mbmbam-ad-reads-1frlcwZ8LB0.mp3" length="13136789" type="audio/mpeg"/>
+      <itunes:duration>22:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>some of my favorite justin mcelroy moments part 6</title>
+      <link>https://www.youtube.com/watch?v=4FTuL54H_Kg</link>
+      <guid isPermaLink="false">4FTuL54H_Kg</guid>
+      <pubDate>Sun, 01 Feb 2026 04:13:12 +0000</pubDate>
+      <description>i own nothing. mbmbam and taz are properties of the mcelroy family and maximum fun. mbmbam tv show is property of seeso. monster factory is property of polygon and the mcelroy family. polygon's overview series is property of polygon. the mcelroy family clubhouse, brudder's gate, and mbmbam video clips are properties of the mcelroy family. til death do us blart is property of little empire podcasts</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-4FTuL54H_Kg/some-of-my-favorite-justin-mcelroy-moments-part-6-4FTuL54H_Kg.mp3" length="9792473" type="audio/mpeg"/>
+      <itunes:duration>17:12</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>mcelroy gaming moments that bounce around my brain part 2</title>
+      <link>https://www.youtube.com/watch?v=8BUStXS6G20</link>
+      <guid isPermaLink="false">8BUStXS6G20</guid>
+      <pubDate>Tue, 27 Jan 2026 23:33:24 +0000</pubDate>
+      <description>i own nothing. polygon's overview series, peacecraft, and griffin's nuzlocke run are all properties of polygon. brudders gate and the remaining gaming livestreams are property of the mcelroy family</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-8BUStXS6G20/mcelroy-gaming-moments-that-bounce-around-my-brain-part-2-8BUStXS6G20.mp3" length="7368705" type="audio/mpeg"/>
+      <itunes:duration>13:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>some of my favorite justin mcelroy moments part 5</title>
+      <link>https://www.youtube.com/watch?v=mITayyQ_6to</link>
+      <guid isPermaLink="false">mITayyQ_6to</guid>
+      <pubDate>Wed, 21 Jan 2026 22:10:09 +0000</pubDate>
+      <description>i own nothing. mbmbam and taz are properties of the mcleroy family and maximum fun. mbmbam tv show is property of seeso. monster factory is property of polygon and the mcelroy family. brudder's gate and mcelroy family clubhouse is property of the mcelroy family</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-mITayyQ_6to/some-of-my-favorite-justin-mcelroy-moments-part-5-mITayyQ_6to.mp3" length="9314738" type="audio/mpeg"/>
+      <itunes:duration>16:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>some of my favorite justin mcelroy moments part 4</title>
+      <link>https://www.youtube.com/watch?v=tKqDUnNftfI</link>
+      <guid isPermaLink="false">tKqDUnNftfI</guid>
+      <pubDate>Fri, 16 Jan 2026 01:57:28 +0000</pubDate>
+      <description>this might be my favorite one i've made. thank you to everyone who made moment suggestions!
+
+i own nothing. mbmbam and taz are properites of the mcelroy family. mbmbam tv show is property of seeso. monster factory is property of polygon and the mcelroy family. brudder's gate and the mcelroy family clubhouse are properties of the mcelroy family. polygon's overview series is property of polygon. tiny heist is property of dimension 20/dropout. til death do us blart is property of little empire podcasts.</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-tKqDUnNftfI/some-of-my-favorite-justin-mcelroy-moments-part-4-tKqDUnNftfI.mp3" length="9294242" type="audio/mpeg"/>
+      <itunes:duration>16:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>some of my favorite justin mcelroy moments part 3</title>
+      <link>https://www.youtube.com/watch?v=NCBoOX1VsrU</link>
+      <guid isPermaLink="false">NCBoOX1VsrU</guid>
+      <pubDate>Tue, 13 Jan 2026 01:49:54 +0000</pubDate>
+      <description>i own nothing. mbmbam and taz are properites of the mcelroy family. mbmbam tv show is property of seeso. monster factory is property of polygon and the mcelroy family. polygon's overview series is property of polygon. til death do us blart is property of little empire podcasts.</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-NCBoOX1VsrU/some-of-my-favorite-justin-mcelroy-moments-part-3-NCBoOX1VsrU.mp3" length="7912534" type="audio/mpeg"/>
+      <itunes:duration>13:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>some of my favorite justin mcelroy moments part 2</title>
+      <link>https://www.youtube.com/watch?v=lwFbuFnqNCo</link>
+      <guid isPermaLink="false">lwFbuFnqNCo</guid>
+      <pubDate>Sat, 27 Dec 2025 04:40:33 +0000</pubDate>
+      <description>i own nothing. mbmbam and taz are properties of the mcelroy family and maximum fun, mbmbam tv show is property of seeso, monster factory is property of polygon and the mcelroy family, and polygon's overview series is property of polygon
+
+enjoy and feel free to comment your favorite justin moments for a potential part 3</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-lwFbuFnqNCo/some-of-my-favorite-justin-mcelroy-moments-part-2-lwFbuFnqNCo.mp3" length="9606576" type="audio/mpeg"/>
+      <itunes:duration>16:28</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>some of my favorite justin mcelroy moments</title>
+      <link>https://www.youtube.com/watch?v=eJT2-Xf4HAw</link>
+      <guid isPermaLink="false">eJT2-Xf4HAw</guid>
+      <pubDate>Tue, 23 Dec 2025 00:55:11 +0000</pubDate>
+      <description>i own nothing. mbmbam, monster factory, and 6 thumbs one heart are properties of the mcelroy family. overview and monster factory are properties of polygon
+
+feel free to comment your favorite justin moments for a potential part 2</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-eJT2-Xf4HAw/some-of-my-favorite-justin-mcelroy-moments-eJT2-Xf4HAw.mp3" length="7402002" type="audio/mpeg"/>
+      <itunes:duration>12:39</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>mcelroy quotes and moments that have altered my vocabulary</title>
+      <link>https://www.youtube.com/watch?v=60RLNawlXVY</link>
+      <guid isPermaLink="false">60RLNawlXVY</guid>
+      <pubDate>Fri, 19 Dec 2025 20:59:10 +0000</pubDate>
+      <description>i own nothing, monster factory and polygon overview series is property of polygon/the mcleroy family. mbmbam and TAZ are property of maximum fun and the mcelroy family
+just a short one this time, might do a part 2</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-60RLNawlXVY/mcelroy-quotes-and-moments-that-have-altered-my-vocabulary-60RLNawlXVY.mp3" length="2059866" type="audio/mpeg"/>
+      <itunes:duration>3:41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>monster factory crash compilation</title>
+      <link>https://www.youtube.com/watch?v=1lYtvOoC6tE</link>
+      <guid isPermaLink="false">1lYtvOoC6tE</guid>
+      <pubDate>Wed, 17 Dec 2025 23:34:58 +0000</pubDate>
+      <description>i own nothing, monster factory is property of polygon and the mcelroy family</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-1lYtvOoC6tE/monster-factory-crash-compilation-1lYtvOoC6tE.mp3" length="3567523" type="audio/mpeg"/>
+      <itunes:duration>6:09</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>monster factory moments i think about daily part 4</title>
+      <link>https://www.youtube.com/watch?v=TRmvgadhj2o</link>
+      <guid isPermaLink="false">TRmvgadhj2o</guid>
+      <pubDate>Wed, 17 Dec 2025 22:01:56 +0000</pubDate>
+      <description>i own nothing, monster factory is property of polygon and the mcelroy family</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-TRmvgadhj2o/monster-factory-moments-i-think-about-daily-part-4-TRmvgadhj2o.mp3" length="10069836" type="audio/mpeg"/>
+      <itunes:duration>17:57</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>mbmbam 739: are you microwave safe?</title>
+      <link>https://www.youtube.com/watch?v=crb9q10-G8Y</link>
+      <guid isPermaLink="false">crb9q10-G8Y</guid>
+      <pubDate>Mon, 15 Dec 2025 17:17:58 +0000</pubDate>
+      <description>clipped from MBMBaM Episode 739 (my question :) )</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-crb9q10-G8Y/mbmbam-739-are-you-microwave-safe-crb9q10-G8Y.mp3" length="2196083" type="audio/mpeg"/>
+      <itunes:duration>3:53</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>mcelroy gaming moments that bounce around my brain</title>
+      <link>https://www.youtube.com/watch?v=eZ98JI4h_Bg</link>
+      <guid isPermaLink="false">eZ98JI4h_Bg</guid>
+      <pubDate>Sun, 14 Dec 2025 20:51:57 +0000</pubDate>
+      <description>i own nothing. overview and griffin's nuzlocke run are property of polygon. brudder's gate, 6 thumbs one heart, and other gaming livestreams are property of the mcelroy family</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-eZ98JI4h_Bg/mcelroy-gaming-moments-that-bounce-around-my-brain-eZ98JI4h_Bg.mp3" length="7031607" type="audio/mpeg"/>
+      <itunes:duration>13:09</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>monster factory moments i think about daily part 3</title>
+      <link>https://www.youtube.com/watch?v=gBtw6XGKCrE</link>
+      <guid isPermaLink="false">gBtw6XGKCrE</guid>
+      <pubDate>Sun, 14 Dec 2025 00:56:48 +0000</pubDate>
+      <description>i own nothing, monster factory is property of polygon and the mcelroy family</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-gBtw6XGKCrE/monster-factory-moments-i-think-about-daily-part-3-gBtw6XGKCrE.mp3" length="8662797" type="audio/mpeg"/>
+      <itunes:duration>16:01</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>monster factory moments i think about daily part 2</title>
+      <link>https://www.youtube.com/watch?v=g-RJvTk0XHM</link>
+      <guid isPermaLink="false">g-RJvTk0XHM</guid>
+      <pubDate>Sun, 31 Dec 2023 02:30:08 +0000</pubDate>
+      <description>I own nothing, monster factory is property of polygon and the mcelroy family</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-g-RJvTk0XHM/monster-factory-moments-i-think-about-daily-part-2-g-RJvTk0XHM.mp3" length="8593292" type="audio/mpeg"/>
+      <itunes:duration>17:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>monster factory moments i think about daily</title>
+      <link>https://www.youtube.com/watch?v=Art2THr0Wf4</link>
+      <guid isPermaLink="false">Art2THr0Wf4</guid>
+      <pubDate>Sun, 17 Dec 2023 00:25:05 +0000</pubDate>
+      <description>I own nothing, monster factory is property of polygon and the mcelroy family</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-Art2THr0Wf4/monster-factory-moments-i-think-about-daily-Art2THr0Wf4.mp3" length="9719770" type="audio/mpeg"/>
+      <itunes:duration>19:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>

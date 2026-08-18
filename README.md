@@ -34,6 +34,33 @@ Then fill in `config.json`:
 Enable Pages: repo **Settings → Pages → Deploy from branch → `main` / root**.
 The feed is then at `<site_url>/feed.xml`.
 
+## YouTube authentication
+
+YouTube rejects unauthenticated media fetches with `HTTP Error 403: Forbidden`
+even when metadata extraction succeeds. Cookies from a logged-in browser fix it.
+
+**Arc is not supported by yt-dlp** (`brave, chrome, chromium, edge, firefox,
+opera, safari, vivaldi, whale` only). Pointing the `chrome` extractor at Arc's
+profile does not work either: Arc encrypts cookies under its own Keychain key,
+so most cookies decrypt to garbage. We therefore use Chrome purely as the
+cookie source — log into YouTube once in Chrome and leave it.
+
+`config.json` → `youtube`:
+
+- `cookies_from_browser` — `"chrome"`. Accepts `browser:profile` too.
+- `cookies_file` — alternative: a Netscape-format `cookies.txt`. Use this
+  instead of the above if you ever run the sync somewhere without a browser.
+  Set only one of the two.
+- `extractor_args` — escape hatch for when YouTube changes behaviour again,
+  e.g. `["youtube:player_client=default,web_safari"]`.
+- `sleep_requests` — seconds between requests. Keep it non-zero when backfilling
+  the whole catalog; hammering the API is what gets you throttled.
+
+If 403s come back, try `yt-dlp -U` first — YouTube breaks extraction often and
+an out-of-date yt-dlp is the most common cause.
+
+Cookies are read live from the browser profile and never written to this repo.
+
 ## Running
 
 ```sh

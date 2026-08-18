@@ -39,6 +39,11 @@ CONFIG_PATH = ROOT / "config.json"
 STATE_PATH = ROOT / "state.json"
 FEED_PATH = ROOT / "feed.xml"
 
+# yt-dlp flags derived from config["youtube"]; populated once in main() and
+# applied to every yt-dlp invocation (listing, metadata, download) so auth is
+# consistent across all three.
+YT_EXTRA: list[str] = []
+
 ITUNES_NS = "http://www.itunes.com/dtds/podcast-1.0.dtd"
 ATOM_NS = "http://www.w3.org/2005/Atom"
 
@@ -95,6 +100,38 @@ def slugify(title: str, video_id: str) -> str:
     return f"{s}-{video_id}.mp3"
 
 
+def build_yt_extra(config: dict) -> list[str]:
+    """Translate config["youtube"] into yt-dlp arguments.
+
+    YouTube regularly starts rejecting unauthenticated media fetches with a 403
+    even when metadata extraction succeeds. Cookies from a logged-in browser are
+    the durable fix; extractor_args is the escape hatch for pinning player
+    clients when YouTube changes behaviour again.
+    """
+    yt = config.get("youtube") or {}
+    args: list[str] = []
+
+    browser = yt.get("cookies_from_browser")
+    cookie_file = yt.get("cookies_file")
+    if browser and cookie_file:
+        die("set only one of youtube.cookies_from_browser or youtube.cookies_file")
+    if browser:
+        args += ["--cookies-from-browser", browser]
+    elif cookie_file:
+        path = Path(cookie_file).expanduser()
+        if not path.exists():
+            die(f"cookies_file not found: {path}")
+        args += ["--cookies", str(path)]
+
+    for ea in yt.get("extractor_args") or []:
+        args += ["--extractor-args", ea]
+
+    if yt.get("sleep_requests"):
+        args += ["--sleep-requests", str(yt["sleep_requests"])]
+
+    return args
+
+
 # ------------------------------------------------------------------ youtube
 
 
@@ -111,6 +148,7 @@ def list_channel_videos(channel_url: str) -> tuple[dict, list[dict]]:
         "--flat-playlist",
         "--dump-single-json",
         "--ignore-errors",
+        *YT_EXTRA,
         channel_url,
     ])
     data = json.loads(proc.stdout)
@@ -124,6 +162,7 @@ def fetch_metadata(video_id: str) -> dict:
         "yt-dlp",
         "--dump-single-json",
         "--no-download",
+        *YT_EXTRA,
         f"https://www.youtube.com/watch?v={video_id}",
     ])
     return json.loads(proc.stdout)
@@ -162,6 +201,7 @@ def download_audio(video_id: str, workdir: Path) -> Path:
         "-f", "bestaudio/best",
         "--no-playlist",
         "-o", out_tmpl,
+        *YT_EXTRA,
         f"https://www.youtube.com/watch?v={video_id}",
     ])
     files = list(workdir.glob("source.*"))
@@ -384,6 +424,9 @@ def main() -> None:
     state = load_json(STATE_PATH, {"channel": {}, "episodes": {}})
     state.setdefault("channel", {})
     state.setdefault("episodes", {})
+
+    global YT_EXTRA
+    YT_EXTRA = build_yt_extra(config)
 
     if args.feed_only:
         FEED_PATH.write_text(build_feed(config, state))

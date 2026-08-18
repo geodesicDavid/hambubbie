@@ -1,9 +1,7 @@
 {
   "channel_url": "https://www.youtube.com/@hambubbie/videos",
-
   "repo": null,
-  "site_url": null,
-
+  "site_url": "https://geodesicdavid.github.io/hambubbie",
   "feed": {
     "title": null,
     "description": null,
@@ -14,10 +12,15 @@
     "explicit": "no",
     "image": null
   },
-
   "encode": {
     "channels": 1,
     "sample_rate": 44100,
     "vbr_quality": 5
+  },
+  "youtube": {
+    "cookies_from_browser": "chrome",
+    "cookies_file": null,
+    "extractor_args": [],
+    "sleep_requests": 1
   }
 }
