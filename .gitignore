@@ -1,0 +1,9 @@
+# Audio never belongs in git -- it lives in GitHub Releases.
+*.mp3
+*.m4a
+*.webm
+*.opus
+
+*.tmp
+__pycache__/
+.DS_Store

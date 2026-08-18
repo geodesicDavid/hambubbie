@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podcast</title>
+    <link>https://www.youtube.com/@hambubbie/videos</link>
+    <description>Podcast</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Aug 2026 14:58:05 +0000</lastBuildDate>
+    <itunes:author>Podcast</itunes:author>
+    <itunes:summary>Podcast</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:owner>
+      <itunes:name>Podcast</itunes:name>
+      <itunes:email>geodesicdavid@gmail.com</itunes:email>
+    </itunes:owner>
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+{
+  "channel_url": "https://www.youtube.com/@hambubbie/videos",
+
+  "repo": null,
+  "site_url": null,
+
+  "feed": {
+    "title": null,
+    "description": null,
+    "author": null,
+    "email": "geodesicdavid@gmail.com",
+    "language": "en-us",
+    "category": "Society & Culture",
+    "explicit": "no",
+    "image": null
+  },
+
+  "encode": {
+    "channels": 1,
+    "sample_rate": 44100,
+    "vbr_quality": 5
+  }
+}
