@@ -5,12 +5,13 @@
     <link>https://www.youtube.com/channel/UCcqJ80blZTEe7Wziz1iCTHg</link>
     <description>mostly just posting compilation videos</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 17:02:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 17:08:25 +0000</lastBuildDate>
     <atom:link href="https://geodesicdavid.github.io/hambubbie/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>hambubbie</itunes:author>
     <itunes:summary>mostly just posting compilation videos</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://geodesicdavid.github.io/hambubbie/artwork.jpg"/>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:owner>
       <itunes:name>hambubbie</itunes:name>
