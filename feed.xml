@@ -5,7 +5,7 @@
     <link>https://www.youtube.com/channel/UCcqJ80blZTEe7Wziz1iCTHg</link>
     <description>mostly just posting compilation videos</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 00:18:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 05:32:28 +0000</lastBuildDate>
     <atom:link href="https://geodesicdavid.github.io/hambubbie/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>hambubbie</itunes:author>
     <itunes:summary>mostly just posting compilation videos</itunes:summary>
@@ -17,6 +17,44 @@
       <itunes:name>hambubbie</itunes:name>
       <itunes:email>geodesicdavid@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>story time with clint mcelroy</title>
+      <link>https://www.youtube.com/watch?v=k704HIVISJw</link>
+      <guid isPermaLink="false">k704HIVISJw</guid>
+      <pubDate>Sat, 22 Aug 2026 03:31:51 +0000</pubDate>
+      <description>just some of my favorite clint stories
+
+note: some of these may be in other story time comps but these are ones about clint
+
+i own nothing, mbmbam is property of maximum fun and the mcelroy family. mbmbam tv show is property of seeso and peacock. the mcelroy family clubhouse is property of the mcleroy family. jordan jesse go is property of maximum fun. 
+
+clips taken from the following episodes with timestamps listed below:
+0:00 assorted tales for father’s day - ep 109
+5:25 good broccoli - clubhouse ep 19
+7:58 travis calls in a favor - ep 476
+9:08 suck ol’ bub - ep 45
+10:00 my glass eye! - ep 156
+12:13 april fools’ text from clint - ep 757
+15:48 hannah montana story - clubhouse ep 40
+17:24 criticism from your dad - ep 205
+22:06 there’s fucking ducky! - ep 470
+23:55 justin origin story - ep 759
+25:55 texts from clint - ep 119
+29:41 clint breaks travis’s phone - ep 409
+30:25 do you know who i am? - ep 491
+31:03 superman popcorn bucket - ep 771
+33:33 clean car fun conversation! - ep 479
+34:19 this is my juice spot - ep 566
+36:58 edamame - ep 310
+38:02 ambien - ep 296
+40:01 hobbes and shaw 4DX - ep 472
+41:10 that’s just me sweat luv - clubhouse ep 40
+42:21 ice block story - jordan jesse go ep 557
+44:37 clint’s roommate story - mbmbam tv show ep 1</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-k704HIVISJw/story-time-with-clint-mcelroy-k704HIVISJw.mp3" length="25582428" type="audio/mpeg"/>
+      <itunes:duration>45:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>story time with travis mcelroy</title>
       <link>https://www.youtube.com/watch?v=gkFK9JmtdS4</link>
