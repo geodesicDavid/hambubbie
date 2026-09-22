@@ -5,7 +5,7 @@
     <link>https://www.youtube.com/channel/UCcqJ80blZTEe7Wziz1iCTHg</link>
     <description>mostly just posting compilation videos</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 05:32:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 04:37:52 +0000</lastBuildDate>
     <atom:link href="https://geodesicdavid.github.io/hambubbie/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>hambubbie</itunes:author>
     <itunes:summary>mostly just posting compilation videos</itunes:summary>
@@ -17,6 +17,85 @@
       <itunes:name>hambubbie</itunes:name>
       <itunes:email>geodesicdavid@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>MBMBaM: Hambubbie's Favs</title>
+      <link>https://www.youtube.com/watch?v=5RJ0icPEXyQ</link>
+      <guid isPermaLink="false">5RJ0icPEXyQ</guid>
+      <pubDate>Mon, 21 Sep 2026 23:41:15 +0000</pubDate>
+      <description>just some of my fav bits :)
+
+i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+clips taken from the following episodes with timestamps listed below
+0:00 the weed boy ep 465
+4:13 pissboy emergency ep 772
+9:55 i will vacuum your house ep 403
+15:58 ted cruz talk ep 543
+23:52 the jumble ep 540
+26:28 audible joker ep 535
+32:42 paul dano's oxo good grips four cup fat separator ep 679
+43:19 haunted doll watch navitius ep 371
+51:41 lily is a very good girl ep 437
+52:59 munch squad einstein’s wake up tunes ep 392
+1:02:34 suppository story ep 777
+1:14:00 boo-ty ghoul-iani ep 581</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-5RJ0icPEXyQ/mbmbam-hambubbies-favs-5RJ0icPEXyQ.mp3" length="43609771" type="audio/mpeg"/>
+      <itunes:duration>1:15:55</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>MBMBaM Oops! All Bits: Sad Libs</title>
+      <link>https://www.youtube.com/watch?v=FF2MJMgKZZo</link>
+      <guid isPermaLink="false">FF2MJMgKZZo</guid>
+      <pubDate>Sun, 20 Sep 2026 21:39:49 +0000</pubDate>
+      <description>i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+clips taken from the following episodes with timestamps listed below
+
+0:00 ep 72
+3:18 ep 76
+6:31 ep 83
+9:25 ep 90
+11:13 ep 107
+16:12 ep 125
+19:01 ep 193
+20:31 ep 214
+22:26 ep 231
+28:52 ep 246
+31:53 ep 282
+36:49 ep 294
+39:12 ep 345
+43:00 totino’s ep
+45:16 ep 598</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-FF2MJMgKZZo/mbmbam-oops-all-bits-sad-libs-FF2MJMgKZZo.mp3" length="27071465" type="audio/mpeg"/>
+      <itunes:duration>46:58</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>intro to mbmbam 101</title>
+      <link>https://www.youtube.com/watch?v=QKrHrG6r7OA</link>
+      <guid isPermaLink="false">QKrHrG6r7OA</guid>
+      <pubDate>Sat, 05 Sep 2026 16:08:37 +0000</pubDate>
+      <description>i made this video with the intention of having a good intro to mbmbam people can share with friends to get them to start to listen!
+
+i own nothing, mbmbam is property of maximum fun and the mcelroy family
+
+clips taken from the following episodes with time stamps listed below:
+
+0:00 intro ep 581
+4:30 shrimp heaven now! ep 367
+9:33 a street car named deez nuts ep 563
+14:56 munch squad #1 ep 304
+24:47 hot grapes ep 448
+34:36 haunted doll watch #1 ep 235
+42:25 raw fettuccine ep 436
+47:11 minion quotes ep 485
+51:40 riddle me piss ep 423
+54:47 final yahoo ep 531</description>
+      <enclosure url="https://github.com/geodesicDavid/hambubbie/releases/download/ep-QKrHrG6r7OA/intro-to-mbmbam-101-QKrHrG6r7OA.mp3" length="33494412" type="audio/mpeg"/>
+      <itunes:duration>56:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>story time with clint mcelroy</title>
       <link>https://www.youtube.com/watch?v=k704HIVISJw</link>
